@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Amazon Web Services (AWS)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love to travel, bake and watch movies
+
 <!--
 **soumyakhanna/soumyakhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
