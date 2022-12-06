@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Amazon Web Services (AWS)
+- 🌱 I’m currently learning Jenkins
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/soumyakhanna/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to travel, bake and watch movies
