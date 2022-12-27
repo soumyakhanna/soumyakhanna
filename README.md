@@ -7,7 +7,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to travel, bake and watch movies
 
-Visitor Count: 
+*Visitor Count*
 ![Count](https://profile-counter.glitch.me/soumyakhanna/count.svg)
 
 <!--
