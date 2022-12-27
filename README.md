@@ -7,8 +7,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to travel, bake and watch movies
 
+![Count](https://profile-counter.glitch.me/soumyakhanna/count.svg)
+
 <!--
 **soumyakhanna/soumyakhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/soumyakhanna/count.svg?align=center)
